@@ -1,4 +1,4 @@
-# Exp 9 Implementation of ROLLUP in SQL.
+# Ex-22 Implementation of ROLLUP in SQL.
 ## AIM:
 To write a sql query to perform ROLLUP in SQL.
 ## PROCEDURE:
